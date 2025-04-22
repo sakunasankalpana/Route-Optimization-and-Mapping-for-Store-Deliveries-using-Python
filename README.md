@@ -1,7 +1,8 @@
 # Store Route Optimization & Mapping Tool
 This Python-based project optimizes delivery/store visitation routes using geospatial data and visualizes them on an interactive map. It leverages Folium for mapping, OSMnx for distance calculations, and OR-Tools (Google’s optimization library) to solve the routing problem efficiently.
 
-Features
+
+## Features
 Geospatial Visualization: Plot store locations on an interactive map using Folium.
 
 Route Optimization: Compute the shortest path between stores using OR-Tools.
@@ -12,7 +13,8 @@ Customizable Data: Works with CSV input files containing store addresses and coo
 
 Scalable: Designed to handle multiple locations for logistics planning.
 
-Technologies Used
+
+## Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Folium (Interactive map visualization)
