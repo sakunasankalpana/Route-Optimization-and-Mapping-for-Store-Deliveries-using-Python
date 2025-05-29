@@ -1,5 +1,5 @@
 # Store Route Optimization & Mapping Tool
-This Python-based project optimizes single deposit delivery/store visitation routes using geospatial data and visualizes them on an interactive map. It leverages Folium for mapping, OSMnx for distance calculations, and OR-Tools (Google’s optimization library) to solve the routing problem efficiently.
+This Python-based project optimizes single depot delivery/store visitation routes using geospatial data and visualizes them on an interactive map. It leverages Folium for mapping, OSMnx for distance calculations, and OR-Tools (Google’s optimization library) to solve the routing problem efficiently.
 
 
 ## Features
